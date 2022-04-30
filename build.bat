@@ -1,0 +1,1 @@
+g++ mcrcon.cpp -lwsock32 -lws2_32
